@@ -1,0 +1,22 @@
+#nameHeader {
+    margin: 20px;
+}
+.img-fluid {
+    width: 300px;
+    align-content: center;
+}
+.col-sm-8 {
+  
+    text-align: justify;
+    text-indent: 50px;
+    border: 1px none;
+    padding: 70px;
+        
+}
+#contactlink {
+    margin-top: 5%;
+}
+#projecthead {
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
